@@ -23,7 +23,7 @@ You only need a modern **web browser** (like Chrome, Firefox, Safari, or Edge) t
 
 ### Steps
 
-1.  **Save the Files:** Ensure you have the three files (`index.html`, `rock-paper-scissor04.css`, and `rock-paper-scissor04.js`) saved correctly in the folder structure assumed by the HTML:
+1.  **Save the Files:** Ensure you have the three files (`index.html`, `rock-paper-scissor.css`, and `rock-paper-scissor.js`) saved correctly in the folder structure assumed by the HTML:
 
     ```
     /ProjectRoot/
